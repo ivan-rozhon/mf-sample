@@ -1,0 +1,10 @@
+[
+  {
+    "remoteEntry": "http://localhost:4000/remoteEntry.js",
+    "remoteName": "mf2",
+    "exposedModule": "./Module",
+    "displayName": "Admin",
+    "routePath": "admin",
+    "ngModuleName": "AdminModule"
+  }
+]
